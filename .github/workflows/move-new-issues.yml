@@ -10,3 +10,4 @@ jobs:
               with:
                 project-name: DevFrontiers Board
                 column-name: New
+                token: ${{ secrets.PROJECTS_TOKEN }}
